@@ -17,11 +17,11 @@ address the concerns of the public.
         * SparkSQL
         * SparkML
         * SparkNLP
-        * GDELT
+        * GDELT (dataset)
     * Python
         * Pandas
         * Natural Language Toolkit
-        * Twitter REST/Streaming API
+        * Twitter REST/Streaming API (dataset)
 
 * Application
     * JavaScript (frontend)
